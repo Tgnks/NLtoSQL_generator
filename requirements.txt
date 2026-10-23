@@ -1,0 +1,33 @@
+
+# UI
+streamlit==1.39.0
+
+# LLM (Groq)
+groq==0.11.0
+httpx==0.27.2
+
+# Config
+python-dotenv==1.0.1
+
+# Database (MySQL)
+sqlalchemy==2.0.36
+pymysql==1.1.1
+
+# Data
+pandas==2.2.3
+numpy==2.1.3
+
+# Web API (for the planned gateway)
+Flask==3.0.3
+flask-cors==4.0.1
+flask-restful==0.3.10
+requests==2.32.3
+PyJWT==2.9.0
+
+# Testing
+pytest==8.3.3
+
+# Embeddings and ML
+sentence-transformers==3.3.1
+torch
+cryptography==43.0.3
