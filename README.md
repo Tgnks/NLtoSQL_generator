@@ -1,6 +1,6 @@
-# AI-Powered Contact Center Transformation
+# NLtoSQL Generator
 
-This project implements an AI-powered contact center transformation using open-source technologies. The architecture is designed to handle user queries, classify intents, generate SQL queries, and manage responses effectively.
+This project implements an Natural language to SQL Query generator using open-source technologies. The architecture is designed to handle user queries, classify intents, generate SQL queries, and manage responses effectively.
 
 ## Project Structure
 
